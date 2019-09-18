@@ -1,0 +1,6 @@
+* [0/4] Typescript project scaffolding
+** IN-PROGRESS typescript
+** IN-PROGRESS webpack
+** IN-PROGRESS jest
+** TODO babel
+** TODO tslint

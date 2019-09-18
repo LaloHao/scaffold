@@ -1,0 +1,25 @@
+{
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.5",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
